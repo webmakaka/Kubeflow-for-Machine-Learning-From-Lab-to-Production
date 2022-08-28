@@ -5,7 +5,7 @@
 
 # In[1]:
 
-get_ipython().system('pip install kfp --upgrade --user')
+# get_ipython().system('pip install kfp --upgrade --user')
 
 import kfp
 from kfp import compiler
