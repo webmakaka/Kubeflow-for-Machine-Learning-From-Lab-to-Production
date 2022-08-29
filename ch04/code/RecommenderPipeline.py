@@ -12,8 +12,8 @@
 
 # In[1]:
 
-get_ipython().system('pip install kubernetes --upgrade --user')
-get_ipython().system('pip install kfp --upgrade --user')
+#get_ipython().system('pip install kubernetes --upgrade --user')
+#get_ipython().system('pip install kfp --upgrade --user')
 
 # the Pipelines SDK.  This library is included with the notebook image.
 import kfp

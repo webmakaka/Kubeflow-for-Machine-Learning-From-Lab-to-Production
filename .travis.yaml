@@ -1,8 +1,0 @@
-language: generic
-sudo: true
-addons:
-  apt:
-    packages:
-     - shellcheck
-script:
-  - ./ci.sh
