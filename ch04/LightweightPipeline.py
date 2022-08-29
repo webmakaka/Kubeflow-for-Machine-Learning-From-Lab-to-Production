@@ -78,7 +78,7 @@ divmod_op = comp.func_to_container_op(
     name='Calculation pipeline',
     description='A toy pipeline that performs arithmetic calculations.')
 def calc_pipeline(
-    a='a',
+    a='10',
     b='7',
     c='17',
 ):
