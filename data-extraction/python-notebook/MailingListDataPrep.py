@@ -5,11 +5,11 @@
 
 # In[ ]:
 
-get_ipython().system('pip3 install --upgrade lxml')
-get_ipython().system('pip3 install --upgrade pandas')
-get_ipython().system('pip3 install --upgrade scikit-learn')
-get_ipython().system('pip3 install --upgrade scipy')
-get_ipython().system('pip3 install --upgrade tables')
+# get_ipython().system('pip3 install --upgrade lxml')
+# get_ipython().system('pip3 install --upgrade pandas')
+# get_ipython().system('pip3 install --upgrade scikit-learn')
+# get_ipython().system('pip3 install --upgrade scipy')
+# get_ipython().system('pip3 install --upgrade tables')
 
 # We can use Jupyter notebooks just like normal inside of Kubeflow
 
